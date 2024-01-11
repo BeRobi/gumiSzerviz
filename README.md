@@ -1,4 +1,4 @@
-Gumiszervíz program
+# Gumiszervíz program
 A gumiszervíz egy tömbben alapértelmezetten 5 gumi befogadására képes, de ettől eltérőt is megadhatunk.
 Kiadásnál a tömbből eltávolításra kerül a gumi. Ha megtelt a gumiszervíz, több gumit már nem enged bevinni.
 A gumiszervíz téli és nyári gumikat tud fogadni.
